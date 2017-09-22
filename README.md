@@ -1,2 +1,2 @@
-# Music-Evolver
-Kake Multimedia's WordPress theme for musicians. Small theme.
+# Heart + Love
+SoMe Connect's proprietary theme for WordPress sites.
